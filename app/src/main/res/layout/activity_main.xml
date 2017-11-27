@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/btn_get"
+        style="@style/TextStyle"
+        android:text="@string/get" />
+
+    <TextView
+        android:id="@+id/btn_post"
+        style="@style/TextStyle"
+        android:text="@string/post"/>
+
+    <TextView
+        android:id="@+id/btn_postfile"
+        style="@style/TextStyle"
+        android:text="@string/postfile"/>
+
+    <TextView
+        android:id="@+id/btn_downloadfile"
+        style="@style/TextStyle"
+        android:text="@string/downloadfile"/>
+
+    <TextView
+        android:id="@+id/btn_postmultiple"
+        style="@style/TextStyle"
+        android:text="@string/postmultiple"/>
+
+</LinearLayout>

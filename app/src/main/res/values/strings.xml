@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OkHttpDemo</string>
+    <string name="get">Get 请求</string>
+    <string name="post">Post请求</string>
+    <string name="postfile">单一文件</string>
+    <string name="downloadfile">下载文件</string>
+    <string name="postmultiple">表单文件</string>
+</resources>
